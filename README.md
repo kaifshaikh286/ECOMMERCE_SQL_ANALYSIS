@@ -8,7 +8,7 @@ This project simulates a realistic e-commerce sales database and uses SQL to ans
 
 ## Tech Stack
 - MySQL (MySQL Workbench)
-- SQL: joins, subqueries, CTEs, window functions
+- SQL: joins, subqueries,window functions
 
 ## Schema
 
